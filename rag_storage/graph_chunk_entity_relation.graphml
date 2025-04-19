@@ -1,0 +1,967 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d9" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d8" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d7" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d6" for="edge" attr.name="description" attr.type="string" />
+  <key id="d5" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Scotiabank">
+      <data key="d0">Scotiabank</data>
+      <data key="d1">organization</data>
+      <data key="d2">Scotiabank is a financial institution that issues the Scotiabank Visa Commercial Card, which offers Collision/Loss Damage Insurance to cardholders.&lt;SEP&gt;Scotiabank is the policyholder of the Group Policy No. BNS0194, offering benefits through the ScotiaGold Passport VISA.</data>
+      <data key="d3">chunk-b7b98ee9edca823c34aab43cb6d7f57f&lt;SEP&gt;chunk-ccefe668aaa0469c9d976fe159eae1c8</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf&lt;SEP&gt;rental_car_insurance.pdf</data>
+    </node>
+    <node id="First North American Insurance Company">
+      <data key="d0">First North American Insurance Company</data>
+      <data key="d1">organization</data>
+      <data key="d2">First North American Insurance Company is the insurer providing collision/loss damage insurance under Policy BNS750 for Scotiabank cardholders.</data>
+      <data key="d3">chunk-b7b98ee9edca823c34aab43cb6d7f57f</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf</data>
+    </node>
+    <node id="The Manufacturers Life Insurance Company (Manulife)">
+      <data key="d0">The Manufacturers Life Insurance Company (Manulife)</data>
+      <data key="d1">organization</data>
+      <data key="d2">Manulife is the parent company of First North American Insurance Company, which provides insurance coverage for Scotiabank cardholders.</data>
+      <data key="d3">chunk-b7b98ee9edca823c34aab43cb6d7f57f</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf</data>
+    </node>
+    <node id="Bank of Nova Scotia">
+      <data key="d0">Bank of Nova Scotia</data>
+      <data key="d1">organization</data>
+      <data key="d2">The Bank of Nova Scotia is the formal name for Scotiabank, which is involved in providing insurance coverage via its Visa Commercial Card.</data>
+      <data key="d3">chunk-b7b98ee9edca823c34aab43cb6d7f57f</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf</data>
+    </node>
+    <node id="Canadian Dollar Scotiabank Visa Commercial Card">
+      <data key="d0">Canadian Dollar Scotiabank Visa Commercial Card</data>
+      <data key="d1">category</data>
+      <data key="d2">The Canadian Dollar Scotiabank Visa Commercial Card is a credit card issued by Scotiabank used for commercial transactions, including vehicle rentals.&lt;SEP&gt;This is a type of credit card issued by Scotiabank that offers benefits such as Collision/Loss Damage Insurance for rentals.</data>
+      <data key="d3">chunk-b7b98ee9edca823c34aab43cb6d7f57f&lt;SEP&gt;chunk-cd46d3847ee0b42bef789cf0f68c8916</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf</data>
+    </node>
+    <node id="Collision/Loss Damage Insurance">
+      <data key="d0">Collision/Loss Damage Insurance</data>
+      <data key="d1">category</data>
+      <data key="d2">Collision/Loss Damage Insurance is a type of coverage provided when renting a vehicle using the Scotiabank Visa Commercial Card, protecting against loss or damage to the rental vehicle.&lt;SEP&gt;Collision/Loss Damage Insurance provides coverage for damages or loss to rental vehicles under certain conditions.&lt;SEP&gt;This insurance covers loss or damage to rental vehicles for cardholders who decline the Rental Agency's Collision Damage Waiver.</data>
+      <data key="d3">chunk-b7b98ee9edca823c34aab43cb6d7f57f&lt;SEP&gt;chunk-a2937495f9497e80753ea99218bc81b6&lt;SEP&gt;chunk-f62dd080cd78e179572410aba83891f0</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf</data>
+    </node>
+    <node id="Car Sharing">
+      <data key="d0">Car Sharing</data>
+      <data key="d1">category</data>
+      <data key="d2">Car Sharing is a service where members have 24-hour access to a fleet of cars, and it is included under the term 'rental agency' in the insurance policy.&lt;SEP&gt;Car Sharing refers to a car rental club that provides members with 24-hour access to a fleet of cars.</data>
+      <data key="d3">chunk-b7b98ee9edca823c34aab43cb6d7f57f&lt;SEP&gt;chunk-ccefe668aaa0469c9d976fe159eae1c8</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf&lt;SEP&gt;rental_car_insurance.pdf</data>
+    </node>
+    <node id="Central Travel Account (CTA)">
+      <data key="d0">Central Travel Account (CTA)</data>
+      <data key="d1">category</data>
+      <data key="d2">A Central Travel Account is used by companies to manage travel bookings, and it can be used to qualify for Collision/Loss Damage Insurance.&lt;SEP&gt;An account type that allows multiple designated users to rent vehicles, with coverage limited to one vehicle per user.</data>
+      <data key="d3">chunk-b7b98ee9edca823c34aab43cb6d7f57f&lt;SEP&gt;chunk-a2937495f9497e80753ea99218bc81b6</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf</data>
+    </node>
+    <node id="Rental Agency">
+      <data key="d0">Rental Agency</data>
+      <data key="d1">organization</data>
+      <data key="d2">A Rental Agency is a business entity that provides vehicles for rent to customers under specific terms and conditions. These agencies are licensed auto rental services that may require deposits and offer optional coverage options, such as Collision Damage Waivers (CDW), to protect against potential vehicle damages. Furthermore, Rental Agencies are involved in managing vehicle rentals, which includes addressing any vehicle damage and handling claims related to repairs, theft, and Loss of Use charges.&lt;SEP&gt;A rental agency is a business that rents vehicles to customers, and in this context, is involved in the insurance claims process for damages or theft of rental vehicles.&lt;SEP&gt;The rental agency is the company providing the rental car service and handling rental agreements.</data>
+      <data key="d3">chunk-a421e3c10d836cc5f863848fa735b77c&lt;SEP&gt;chunk-cd46d3847ee0b42bef789cf0f68c8916&lt;SEP&gt;chunk-b7b98ee9edca823c34aab43cb6d7f57f&lt;SEP&gt;chunk-a2937495f9497e80753ea99218bc81b6&lt;SEP&gt;chunk-dc3202a0812b3688825822639df073cd&lt;SEP&gt;chunk-32dc3362d97d935356954cfd519f18ce&lt;SEP&gt;chunk-f62dd080cd78e179572410aba83891f0&lt;SEP&gt;chunk-7493eb690999c707f2127514e9040780</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf&lt;SEP&gt;rental_car_insurance.pdf</data>
+    </node>
+    <node id="Rental Agency's CDW">
+      <data key="d0">Rental Agency's CDW</data>
+      <data key="d1">category</data>
+      <data key="d2">The Rental Agency's CDW is an optional coverage offered by rental companies to relieve renters of financial responsibility for damage or theft.</data>
+      <data key="d3">chunk-b7b98ee9edca823c34aab43cb6d7f57f</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf</data>
+    </node>
+    <node id="Tax-Free Car">
+      <data key="d0">Tax-Free Car</data>
+      <data key="d1">category</data>
+      <data key="d2">A tax-free car is a short-term vehicle lease agreement for tourists, which is not covered by the Collision/Loss Damage Insurance program.</data>
+      <data key="d3">chunk-b7b98ee9edca823c34aab43cb6d7f57f</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf</data>
+    </node>
+    <node id="Eligible Person">
+      <data key="d0">Eligible Person</data>
+      <data key="d1">category</data>
+      <data key="d2">An Eligible Person is a cardholder or authorized driver who meets specific conditions to qualify for Collision/Loss Damage Insurance.</data>
+      <data key="d3">chunk-b7b98ee9edca823c34aab43cb6d7f57f</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf</data>
+    </node>
+    <node id="Loss of Use">
+      <data key="d0">Loss of Use</data>
+      <data key="d1">category</data>
+      <data key="d2">Loss of Use refers to charges incurred when a rental car is unavailable for rental due to damage.&lt;SEP&gt;Loss of Use refers to charges related to the inability to use a vehicle due to damage, which may be covered under certain insurance claims.&lt;SEP&gt;Loss of Use refers to compensation paid to a Rental Agency when a rental vehicle is unavailable due to repairs after damage during the rental period.&lt;SEP&gt;Loss of Use refers to the charges incurred by a rental agency when a vehicle is unavailable for rental due to damage or theft.</data>
+      <data key="d3">chunk-a421e3c10d836cc5f863848fa735b77c&lt;SEP&gt;chunk-b7b98ee9edca823c34aab43cb6d7f57f&lt;SEP&gt;chunk-dc3202a0812b3688825822639df073cd&lt;SEP&gt;chunk-7493eb690999c707f2127514e9040780</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf&lt;SEP&gt;rental_car_insurance.pdf</data>
+    </node>
+    <node id="Scotiabank Visa Commercial Card">
+      <data key="d0">Scotiabank Visa Commercial Card</data>
+      <data key="d1">organization</data>
+      <data key="d2">The Scotiabank Visa Commercial Card is a financial product that provides certain insurance coverages for car rentals when used for transactions.</data>
+      <data key="d3">chunk-a2937495f9497e80753ea99218bc81b6</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf</data>
+    </node>
+    <node id="Manulife">
+      <data key="d0">Manulife</data>
+      <data key="d1">organization</data>
+      <data key="d2">Manulife is an insurance company committed to protecting customer privacy and handling personal information for administering coverage and processing claims.&lt;SEP&gt;Manulife is an insurance company involved in processing claims related to vehicle rental damages.&lt;SEP&gt;Manulife is an insurance company responsible for administering claims related to the Collision/Loss Damage Insurance.&lt;SEP&gt;Manulife is an insurance company that provides administrative support for claims related to the Scotiabank Visa* Commercial Card.</data>
+      <data key="d3">chunk-7493eb690999c707f2127514e9040780&lt;SEP&gt;chunk-32dc3362d97d935356954cfd519f18ce&lt;SEP&gt;chunk-a2937495f9497e80753ea99218bc81b6&lt;SEP&gt;chunk-f62dd080cd78e179572410aba83891f0</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf</data>
+    </node>
+    <node id="Canadian dollar">
+      <data key="d0">Canadian dollar</data>
+      <data key="d1">category</data>
+      <data key="d2">The Canadian dollar is the currency required for transactions to activate the Collision/Loss Damage Insurance coverage.</data>
+      <data key="d3">chunk-a2937495f9497e80753ea99218bc81b6</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf</data>
+    </node>
+    <node id="Tax-Free Car Package">
+      <data key="d0">Tax-Free Car Package</data>
+      <data key="d1">category</data>
+      <data key="d2">A tax-free car package that allows tourists to lease vehicles for short-term periods, offering a guaranteed buyback option.</data>
+      <data key="d3">chunk-a2937495f9497e80753ea99218bc81b6</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf</data>
+    </node>
+    <node id="Canadian Dollar">
+      <data key="d0">Canadian Dollar</data>
+      <data key="d1">category</data>
+      <data key="d2">The currency required for transactions to activate the Collision/Loss Damage Insurance coverage.</data>
+      <data key="d3">chunk-a2937495f9497e80753ea99218bc81b6</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf</data>
+    </node>
+    <node id="Travel Card">
+      <data key="d0">Travel Card</data>
+      <data key="d1">category</data>
+      <data key="d2">A card with a single authorized cardholder, providing coverage for one rental vehicle at a time.</data>
+      <data key="d3">chunk-a2937495f9497e80753ea99218bc81b6</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf</data>
+    </node>
+    <node id="Scotiabank Commercial Account">
+      <data key="d0">Scotiabank Commercial Account</data>
+      <data key="d1">organization</data>
+      <data key="d2">Scotiabank Commercial Account refers to the financial account provided by Scotiabank, which offers various commercial banking services.</data>
+      <data key="d3">chunk-cd46d3847ee0b42bef789cf0f68c8916</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf</data>
+    </node>
+    <node id="Coverage">
+      <data key="d0">Coverage</data>
+      <data key="d1">category</data>
+      <data key="d2">Coverage refers to the insurance protection provided under specific terms, including limitations and exclusions, for rental vehicles.</data>
+      <data key="d3">chunk-cd46d3847ee0b42bef789cf0f68c8916</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf</data>
+    </node>
+    <node id="Eligible Persons">
+      <data key="d0">Eligible Persons</data>
+      <data key="d1">category</data>
+      <data key="d2">Eligible Persons are individuals who meet specific criteria to qualify for insurance coverage under the Scotiabank policy.</data>
+      <data key="d3">chunk-cd46d3847ee0b42bef789cf0f68c8916</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf</data>
+    </node>
+    <node id="Third Party Liability">
+      <data key="d0">Third Party Liability</data>
+      <data key="d1">category</data>
+      <data key="d2">Third Party Liability refers to the legal responsibility for damages or injuries to another party, which is not covered by this insurance policy.</data>
+      <data key="d3">chunk-cd46d3847ee0b42bef789cf0f68c8916</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf</data>
+    </node>
+    <node id="Replacement Vehicle">
+      <data key="d0">Replacement Vehicle</data>
+      <data key="d1">category</data>
+      <data key="d2">Replacement Vehicle refers to a vehicle rented to replace another vehicle, which is not covered if personal insurance covers the cost.</data>
+      <data key="d3">chunk-cd46d3847ee0b42bef789cf0f68c8916</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf</data>
+    </node>
+    <node id="Rental Period">
+      <data key="d0">Rental Period</data>
+      <data key="d1">category</data>
+      <data key="d2">Rental Period is the duration for which a vehicle is rented, with coverage limitations if it exceeds 48 consecutive days.</data>
+      <data key="d3">chunk-cd46d3847ee0b42bef789cf0f68c8916</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf</data>
+    </node>
+    <node id="Narcotic Influence">
+      <data key="d0">Narcotic Influence</data>
+      <data key="d1">category</data>
+      <data key="d2">Narcotic Influence refers to operating a vehicle while under the influence of narcotics, which voids coverage.</data>
+      <data key="d3">chunk-cd46d3847ee0b42bef789cf0f68c8916</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf</data>
+    </node>
+    <node id="Seizure or Destruction">
+      <data key="d0">Seizure or Destruction</data>
+      <data key="d1">category</data>
+      <data key="d2">Seizure or Destruction refers to the confiscation or destruction of the vehicle under quarantine, customs, or government orders, which is not covered.</data>
+      <data key="d3">chunk-cd46d3847ee0b42bef789cf0f68c8916</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf</data>
+    </node>
+    <node id="War and Hostile Actions">
+      <data key="d0">War and Hostile Actions</data>
+      <data key="d1">category</data>
+      <data key="d2">War and Hostile Actions refer to damages arising from war-like actions, insurrections, or government actions, which are excluded from coverage.</data>
+      <data key="d3">chunk-cd46d3847ee0b42bef789cf0f68c8916</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf</data>
+    </node>
+    <node id="Nuclear Reaction">
+      <data key="d0">Nuclear Reaction</data>
+      <data key="d1">category</data>
+      <data key="d2">Nuclear Reaction refers to damages caused by nuclear reactions, radiation, or contamination, which are not covered by this insurance policy.</data>
+      <data key="d3">chunk-cd46d3847ee0b42bef789cf0f68c8916</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf</data>
+    </node>
+    <node id="Scotiabank Visa* Commercial Card">
+      <data key="d0">Scotiabank Visa* Commercial Card</data>
+      <data key="d1">organization</data>
+      <data key="d2">The Scotiabank Visa* Commercial Card is a financial service product that offers rental vehicle coverage and other benefits.</data>
+      <data key="d3">chunk-32dc3362d97d935356954cfd519f18ce</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf</data>
+    </node>
+    <node id="Canada">
+      <data key="d0">Canada</data>
+      <data key="d1">geo</data>
+      <data key="d2">Canada is a country in North America where the coverage and services of the Scotiabank Visa* Commercial Card are available.&lt;SEP&gt;Canada is a country where specific contact numbers are provided for reporting insurance claims related to rental vehicle damage or theft.</data>
+      <data key="d3">chunk-dc3202a0812b3688825822639df073cd&lt;SEP&gt;chunk-32dc3362d97d935356954cfd519f18ce</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf&lt;SEP&gt;rental_car_insurance.pdf</data>
+    </node>
+    <node id="Accident/Theft Event">
+      <data key="d0">Accident/Theft Event</data>
+      <data key="d1">event</data>
+      <data key="d2">An accident or theft event is an incident involving damage or loss of a rental vehicle, triggering the need for a claim.</data>
+      <data key="d3">chunk-32dc3362d97d935356954cfd519f18ce</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf</data>
+    </node>
+    <node id="Global Excel Management">
+      <data key="d0">Global Excel Management</data>
+      <data key="d1">organization</data>
+      <data key="d2">Global Excel Management is an administrator appointed by Manulife to handle assistance and claims services under the insurance certificate.&lt;SEP&gt;Global Excel Management is responsible for handling documentation related to insurance claims for Manulife.</data>
+      <data key="d3">chunk-7493eb690999c707f2127514e9040780&lt;SEP&gt;chunk-f62dd080cd78e179572410aba83891f0</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf</data>
+    </node>
+    <node id="CDW (Collision Damage Waiver)">
+      <data key="d0">CDW (Collision Damage Waiver)</data>
+      <data key="d1">category</data>
+      <data key="d2">CDW is an optional insurance coverage offered by rental agencies to cover damages to rental vehicles.</data>
+      <data key="d3">chunk-f62dd080cd78e179572410aba83891f0</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf</data>
+    </node>
+    <node id="Windsor, ON">
+      <data key="d0">Windsor, ON</data>
+      <data key="d1">geo</data>
+      <data key="d2">Windsor, ON is the location where Global Excel Management processes insurance claim documentation.</data>
+      <data key="d3">chunk-f62dd080cd78e179572410aba83891f0</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf</data>
+    </node>
+    <node id="Privacy Officer, Manulife">
+      <data key="d0">Privacy Officer, Manulife</data>
+      <data key="d1">person</data>
+      <data key="d2">The Privacy Officer at Manulife is responsible for managing requests to review and correct personal information contained in Manulife's files.</data>
+      <data key="d3">chunk-7493eb690999c707f2127514e9040780</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf</data>
+    </node>
+    <node id="Waterloo, ON">
+      <data key="d0">Waterloo, ON</data>
+      <data key="d1">geo</data>
+      <data key="d2">Waterloo, ON is the location of Manulife's offices where personal information files are secured.</data>
+      <data key="d3">chunk-7493eb690999c707f2127514e9040780</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf</data>
+    </node>
+    <node id="The Bank of Nova Scotia">
+      <data key="d0">The Bank of Nova Scotia</data>
+      <data key="d1">organization</data>
+      <data key="d2">The Bank of Nova Scotia is a licensed user of Visa International, mentioned in the context of the insurance document.&lt;SEP&gt;The Bank of Nova Scotia, also known as Scotiabank, is a Canadian multinational bank offering financial services including the ScotiaGold VISA.</data>
+      <data key="d3">chunk-a421e3c10d836cc5f863848fa735b77c&lt;SEP&gt;chunk-7493eb690999c707f2127514e9040780</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf&lt;SEP&gt;rental_car_insurance.pdf</data>
+    </node>
+    <node id="Active Claims Management (2018) Inc.">
+      <data key="d0">Active Claims Management (2018) Inc.</data>
+      <data key="d1">organization</data>
+      <data key="d2">Active Claims Management (2018) Inc., operating as Active Care Management, ACM, Global Excel Management, and/or Global Excel, is appointed by Manulife to provide assistance and claims services.</data>
+      <data key="d3">chunk-7493eb690999c707f2127514e9040780</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf</data>
+    </node>
+    <node id="In the Event of an Accident/Theft">
+      <data key="d0">In the Event of an Accident/Theft</data>
+      <data key="d1">event</data>
+      <data key="d2">The procedures outlined for reporting and handling vehicle accidents or theft, including claims processing.</data>
+      <data key="d3">chunk-7493eb690999c707f2127514e9040780</data>
+      <data key="d4">EN_Commercial_CLD_CAD.pdf</data>
+    </node>
+    <node id="Primmum Insurance Company">
+      <data key="d0">Primmum Insurance Company</data>
+      <data key="d1">organization</data>
+      <data key="d2">Primmum Insurance Company is the insurer providing the Group Policy for the ScotiaGold Passport VISA Rental Car Insurance.</data>
+      <data key="d3">chunk-ccefe668aaa0469c9d976fe159eae1c8</data>
+      <data key="d4">rental_car_insurance.pdf</data>
+    </node>
+    <node id="World Travel Protection Canada Inc.">
+      <data key="d0">World Travel Protection Canada Inc.</data>
+      <data key="d1">organization</data>
+      <data key="d2">World Travel Protection Canada Inc. provides services under the Group Policy as the Group Policy administrator.</data>
+      <data key="d3">chunk-ccefe668aaa0469c9d976fe159eae1c8</data>
+      <data key="d4">rental_car_insurance.pdf</data>
+    </node>
+    <node id="ScotiaGold Passport VISA">
+      <data key="d0">ScotiaGold Passport VISA</data>
+      <data key="d1">category</data>
+      <data key="d2">ScotiaGold Passport VISA is a credit card offering rental car collision/loss damage insurance and other benefits.</data>
+      <data key="d3">chunk-ccefe668aaa0469c9d976fe159eae1c8</data>
+      <data key="d4">rental_car_insurance.pdf</data>
+    </node>
+    <node id="Toronto, Ontario">
+      <data key="d0">Toronto, Ontario</data>
+      <data key="d1">geo</data>
+      <data key="d2">Toronto is a city in Ontario, Canada, where the ScotiaGold VISA Auto Rental CLD Insurance office is located.&lt;SEP&gt;Toronto, Ontario is the location of the Executive Offices of Scotiabank where the Group Policy is on file.</data>
+      <data key="d3">chunk-a421e3c10d836cc5f863848fa735b77c&lt;SEP&gt;chunk-ccefe668aaa0469c9d976fe159eae1c8</data>
+      <data key="d4">rental_car_insurance.pdf</data>
+    </node>
+    <node id="Tax-free Car">
+      <data key="d0">Tax-free Car</data>
+      <data key="d1">category</data>
+      <data key="d2">Tax-free Car is a package offering tourists a short-term, tax-free vehicle lease agreement with a guaranteed buyback.</data>
+      <data key="d3">chunk-ccefe668aaa0469c9d976fe159eae1c8</data>
+      <data key="d4">rental_car_insurance.pdf</data>
+    </node>
+    <node id="Scotia Assist">
+      <data key="d0">Scotia Assist</data>
+      <data key="d1">organization</data>
+      <data key="d2">Scotia Assist is a service associated with ScotiaGold VISA, responsible for handling auto rental insurance claims.&lt;SEP&gt;Scotia Assist is the administrator of the Group Policy for the ScotiaGold Passport VISA.</data>
+      <data key="d3">chunk-a421e3c10d836cc5f863848fa735b77c&lt;SEP&gt;chunk-ccefe668aaa0469c9d976fe159eae1c8</data>
+      <data key="d4">rental_car_insurance.pdf</data>
+    </node>
+    <node id="Scotia Rewards Points">
+      <data key="d0">Scotia Rewards Points</data>
+      <data key="d1">category</data>
+      <data key="d2">Scotia Rewards Points are a rewards program that can be used to pay for car rentals under the ScotiaGold Passport VISA benefits.</data>
+      <data key="d3">chunk-ccefe668aaa0469c9d976fe159eae1c8</data>
+      <data key="d4">rental_car_insurance.pdf</data>
+    </node>
+    <node id="Collision Damage Waiver (CDW)">
+      <data key="d0">Collision Damage Waiver (CDW)</data>
+      <data key="d1">category</data>
+      <data key="d2">Collision Damage Waiver is a provision that cardholders must decline to be eligible for the ScotiaGold VISA insurance coverage.</data>
+      <data key="d3">chunk-ccefe668aaa0469c9d976fe159eae1c8</data>
+      <data key="d4">rental_car_insurance.pdf</data>
+    </node>
+    <node id="Loss Damage Waiver (LDW)">
+      <data key="d0">Loss Damage Waiver (LDW)</data>
+      <data key="d1">category</data>
+      <data key="d2">Loss Damage Waiver is a provision similar to CDW that must be declined for insurance eligibility under the ScotiaGold VISA.</data>
+      <data key="d3">chunk-ccefe668aaa0469c9d976fe159eae1c8</data>
+      <data key="d4">rental_car_insurance.pdf</data>
+    </node>
+    <node id="Deductible Waiver">
+      <data key="d0">Deductible Waiver</data>
+      <data key="d1">category</data>
+      <data key="d2">Deductible Waiver is a provision that must be waived in certain locations for ScotiaGold VISA insurance coverage to apply.</data>
+      <data key="d3">chunk-ccefe668aaa0469c9d976fe159eae1c8</data>
+      <data key="d4">rental_car_insurance.pdf</data>
+    </node>
+    <node id="ScotiaGold VISA CLD Insurance">
+      <data key="d0">ScotiaGold VISA CLD Insurance</data>
+      <data key="d1">organization</data>
+      <data key="d2">ScotiaGold VISA CLD Insurance is a primary insurance provider that covers liabilities related to rental vehicles, including damages, theft, and certain charges, under specific conditions and limitations.</data>
+      <data key="d3">chunk-dc3202a0812b3688825822639df073cd</data>
+      <data key="d4">rental_car_insurance.pdf</data>
+    </node>
+    <node id="Mini-van">
+      <data key="d0">Mini-van</data>
+      <data key="d1">category</data>
+      <data key="d2">A mini-van is a type of automobile classified by manufacturers or government authorities as designed to transport up to eight passengers, including the driver.</data>
+      <data key="d3">chunk-dc3202a0812b3688825822639df073cd</data>
+      <data key="d4">rental_car_insurance.pdf</data>
+    </node>
+    <node id="Exotic Cars">
+      <data key="d0">Exotic Cars</data>
+      <data key="d1">category</data>
+      <data key="d2">Exotic cars refer to high-end, luxury vehicles with limited production, such as Ferrari, Aston Martin, and Lamborghini, which are not covered by the insurance.</data>
+      <data key="d3">chunk-dc3202a0812b3688825822639df073cd</data>
+      <data key="d4">rental_car_insurance.pdf</data>
+    </node>
+    <node id="United States">
+      <data key="d0">United States</data>
+      <data key="d1">geo</data>
+      <data key="d2">The United States is a country where specific contact numbers are provided for reporting insurance claims related to rental vehicle damage or theft.</data>
+      <data key="d3">chunk-dc3202a0812b3688825822639df073cd</data>
+      <data key="d4">rental_car_insurance.pdf</data>
+    </node>
+    <node id="Claims Administrator">
+      <data key="d0">Claims Administrator</data>
+      <data key="d1">person</data>
+      <data key="d2">The Claims Administrator is responsible for processing insurance claims, gathering necessary information, and assisting customers in the claims process.</data>
+      <data key="d3">chunk-dc3202a0812b3688825822639df073cd</data>
+      <data key="d4">rental_car_insurance.pdf</data>
+    </node>
+    <node id="Towing Charges">
+      <data key="d0">Towing Charges</data>
+      <data key="d1">category</data>
+      <data key="d2">Towing Charges are costs associated with towing a damaged or stolen rental vehicle, covered under the insurance policy.</data>
+      <data key="d3">chunk-dc3202a0812b3688825822639df073cd</data>
+      <data key="d4">rental_car_insurance.pdf</data>
+    </node>
+    <node id="Administration Charges">
+      <data key="d0">Administration Charges</data>
+      <data key="d1">category</data>
+      <data key="d2">Administration Charges refer to fees charged by a rental agency for processing claims related to vehicle damage or theft.</data>
+      <data key="d3">chunk-dc3202a0812b3688825822639df073cd</data>
+      <data key="d4">rental_car_insurance.pdf</data>
+    </node>
+    <node id="Malicious Vandalism">
+      <data key="d0">Malicious Vandalism</data>
+      <data key="d1">category</data>
+      <data key="d2">Malicious Vandalism refers to intentional damage caused to a rental vehicle, covered under the insurance policy.</data>
+      <data key="d3">chunk-dc3202a0812b3688825822639df073cd</data>
+      <data key="d4">rental_car_insurance.pdf</data>
+    </node>
+    <node id="Theft">
+      <data key="d0">Theft</data>
+      <data key="d1">category</data>
+      <data key="d2">Theft refers to the unlawful taking of a rental vehicle, which is covered by the insurance policy under specific conditions.</data>
+      <data key="d3">chunk-dc3202a0812b3688825822639df073cd</data>
+      <data key="d4">rental_car_insurance.pdf</data>
+    </node>
+    <node id="Helpful Hints">
+      <data key="d0">Helpful Hints</data>
+      <data key="d1">category</data>
+      <data key="d2">Helpful Hints is a section providing tips to avoid challenges in using the insurance coverage for rental vehicles.</data>
+      <data key="d3">chunk-dc3202a0812b3688825822639df073cd</data>
+      <data key="d4">rental_car_insurance.pdf</data>
+    </node>
+    <node id="ScotiaGold VISA">
+      <data key="d0">ScotiaGold VISA</data>
+      <data key="d1">organization</data>
+      <data key="d2">ScotiaGold VISA is a credit card service offered by The Bank of Nova Scotia, providing auto rental insurance coverage.</data>
+      <data key="d3">chunk-a421e3c10d836cc5f863848fa735b77c</data>
+      <data key="d4">rental_car_insurance.pdf</data>
+    </node>
+    <node id="Group Policy">
+      <data key="d0">Group Policy</data>
+      <data key="d1">category</data>
+      <data key="d2">The Group Policy refers to the insurance terms and conditions provided by ScotiaGold VISA for auto rental coverage.</data>
+      <data key="d3">chunk-a421e3c10d836cc5f863848fa735b77c</data>
+      <data key="d4">rental_car_insurance.pdf</data>
+    </node>
+    <node id="Driver's Licence">
+      <data key="d0">Driver's Licence</data>
+      <data key="d1">category</data>
+      <data key="d2">The driver's licence is required as proof of identity for the person driving the car at the time of the accident.</data>
+      <data key="d3">chunk-a421e3c10d836cc5f863848fa735b77c</data>
+      <data key="d4">rental_car_insurance.pdf</data>
+    </node>
+    <node id="Police Report">
+      <data key="d0">Police Report</data>
+      <data key="d1">category</data>
+      <data key="d2">The police report is a document detailing the circumstances of the accident, necessary for claim processing.</data>
+      <data key="d3">chunk-a421e3c10d836cc5f863848fa735b77c</data>
+      <data key="d4">rental_car_insurance.pdf</data>
+    </node>
+    <node id="Loss/Damage Report">
+      <data key="d0">Loss/Damage Report</data>
+      <data key="d1">category</data>
+      <data key="d2">The loss/damage report is completed with the rental agency to document any damage or loss incurred.</data>
+      <data key="d3">chunk-a421e3c10d836cc5f863848fa735b77c</data>
+      <data key="d4">rental_car_insurance.pdf</data>
+    </node>
+    <node id="ScotiaGold VISA Card">
+      <data key="d0">ScotiaGold VISA Card</data>
+      <data key="d1">organization</data>
+      <data key="d2">The ScotiaGold VISA Card is a credit card that provides benefits including auto rental insurance coverage.</data>
+      <data key="d3">chunk-a421e3c10d836cc5f863848fa735b77c</data>
+      <data key="d4">rental_car_insurance.pdf</data>
+    </node>
+    <node id="Rental Agreement">
+      <data key="d0">Rental Agreement</data>
+      <data key="d1">category</data>
+      <data key="d2">The rental agreement is a contract between the rental agency and the customer, outlining terms of the car rental.</data>
+      <data key="d3">chunk-a421e3c10d836cc5f863848fa735b77c</data>
+      <data key="d4">rental_car_insurance.pdf</data>
+    </node>
+    <node id="Repair Estimate and Bills">
+      <data key="d0">Repair Estimate and Bills</data>
+      <data key="d1">category</data>
+      <data key="d2">These documents provide itemized costs for repairs to the rental vehicle, required for insurance claims.</data>
+      <data key="d3">chunk-a421e3c10d836cc5f863848fa735b77c</data>
+      <data key="d4">rental_car_insurance.pdf</data>
+    </node>
+    <edge source="Scotiabank" target="First North American Insurance Company">
+      <data key="d5">9.0</data>
+      <data key="d6">First North American Insurance Company provides collision/loss damage insurance for Scotiabank cardholders under Policy BNS750.</data>
+      <data key="d7">insurance provision, financial services</data>
+      <data key="d8">chunk-b7b98ee9edca823c34aab43cb6d7f57f</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Scotiabank" target="Bank of Nova Scotia">
+      <data key="d5">7.0</data>
+      <data key="d6">Scotiabank is commonly known as the Bank of Nova Scotia, which is involved in issuing the Visa Commercial Card with insurance benefits.</data>
+      <data key="d7">corporate identity, financial services</data>
+      <data key="d8">chunk-b7b98ee9edca823c34aab43cb6d7f57f</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Scotiabank" target="Primmum Insurance Company">
+      <data key="d5">9.0</data>
+      <data key="d6">Scotiabank is the policyholder of the insurance policy issued by Primmum Insurance Company.</data>
+      <data key="d7">insurance policy, financial agreement</data>
+      <data key="d8">chunk-ccefe668aaa0469c9d976fe159eae1c8</data>
+      <data key="d9">rental_car_insurance.pdf</data>
+    </edge>
+    <edge source="Scotiabank" target="World Travel Protection Canada Inc.">
+      <data key="d5">8.0</data>
+      <data key="d6">World Travel Protection Canada Inc. administers services under the policy held by Scotiabank.</data>
+      <data key="d7">service administration, insurance</data>
+      <data key="d8">chunk-ccefe668aaa0469c9d976fe159eae1c8</data>
+      <data key="d9">rental_car_insurance.pdf</data>
+    </edge>
+    <edge source="Scotiabank" target="ScotiaGold Passport VISA">
+      <data key="d5">9.0</data>
+      <data key="d6">Scotiabank offers the ScotiaGold Passport VISA, providing insurance and other benefits to cardholders.</data>
+      <data key="d7">credit card benefits, financial services</data>
+      <data key="d8">chunk-ccefe668aaa0469c9d976fe159eae1c8</data>
+      <data key="d9">rental_car_insurance.pdf</data>
+    </edge>
+    <edge source="First North American Insurance Company" target="The Manufacturers Life Insurance Company (Manulife)">
+      <data key="d5">8.0</data>
+      <data key="d6">First North American Insurance Company is a wholly owned subsidiary of Manulife.</data>
+      <data key="d7">corporate ownership, insurance</data>
+      <data key="d8">chunk-b7b98ee9edca823c34aab43cb6d7f57f</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Canadian Dollar Scotiabank Visa Commercial Card" target="Collision/Loss Damage Insurance">
+      <data key="d5">8.0</data>
+      <data key="d6">The Scotiabank Visa Commercial Card offers Collision/Loss Damage Insurance as a benefit to cardholders.</data>
+      <data key="d7">card benefits, insurance coverage</data>
+      <data key="d8">chunk-b7b98ee9edca823c34aab43cb6d7f57f</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Canadian Dollar Scotiabank Visa Commercial Card" target="Scotiabank Commercial Account">
+      <data key="d5">9.0</data>
+      <data key="d6">The Canadian Dollar Scotiabank Visa Commercial Card is linked to the Scotiabank Commercial Account, providing financial services for commercial transactions.</data>
+      <data key="d7">financial services, account linkage</data>
+      <data key="d8">chunk-cd46d3847ee0b42bef789cf0f68c8916</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Canadian Dollar Scotiabank Visa Commercial Card" target="Coverage">
+      <data key="d5">8.0</data>
+      <data key="d6">The Canadian Dollar Scotiabank Visa Commercial Card must be used to pay for the rental to activate coverage.</data>
+      <data key="d7">insurance activation, payment requirement</data>
+      <data key="d8">chunk-cd46d3847ee0b42bef789cf0f68c8916</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Collision/Loss Damage Insurance" target="Loss of Use">
+      <data key="d5">7.0</data>
+      <data key="d6">Collision/Loss Damage Insurance may cover the Loss of Use fees incurred by a Rental Agency during vehicle repairs.</data>
+      <data key="d7">insurance coverage, rental compensation</data>
+      <data key="d8">chunk-b7b98ee9edca823c34aab43cb6d7f57f</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Collision/Loss Damage Insurance" target="Scotiabank Visa Commercial Card">
+      <data key="d5">9.0</data>
+      <data key="d6">The Scotiabank Visa Commercial Card must be used for the full rental transaction to activate the Collision/Loss Damage Insurance coverage.</data>
+      <data key="d7">financial service, insurance activation</data>
+      <data key="d8">chunk-a2937495f9497e80753ea99218bc81b6</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Collision/Loss Damage Insurance" target="Rental Agency">
+      <data key="d5">8.0</data>
+      <data key="d6">The Collision/Loss Damage Insurance is an alternative to the collision damage waiver offered by the Rental Agency.</data>
+      <data key="d7">insurance option, vehicle rental</data>
+      <data key="d8">chunk-a2937495f9497e80753ea99218bc81b6</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Collision/Loss Damage Insurance" target="Manulife">
+      <data key="d5">16.0</data>
+      <data key="d6">Manulife administers claims related to the Collision/Loss Damage Insurance provided by the Scotiabank Visa Commercial Card.&lt;SEP&gt;Manulife provides the Collision/Loss Damage Insurance coverage for rental vehicles.</data>
+      <data key="d7">insurance administration, claims processing&lt;SEP&gt;insurance provision, coverage</data>
+      <data key="d8">chunk-a2937495f9497e80753ea99218bc81b6&lt;SEP&gt;chunk-f62dd080cd78e179572410aba83891f0</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Collision/Loss Damage Insurance" target="Tax-Free Car Package">
+      <data key="d5">7.0</data>
+      <data key="d6">The Collision/Loss Damage Insurance does not cover tax-free cars.</data>
+      <data key="d7">insurance exclusion, vehicle coverage</data>
+      <data key="d8">chunk-a2937495f9497e80753ea99218bc81b6</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Collision/Loss Damage Insurance" target="Central Travel Account (CTA)">
+      <data key="d5">7.0</data>
+      <data key="d6">The CTA allows multiple users to rent vehicles, with insurance coverage limited to one vehicle per user.</data>
+      <data key="d7">account type, insurance coverage</data>
+      <data key="d8">chunk-a2937495f9497e80753ea99218bc81b6</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Collision/Loss Damage Insurance" target="Travel Card">
+      <data key="d5">6.0</data>
+      <data key="d6">The Travel Card provides insurance coverage for one rental vehicle at a time.</data>
+      <data key="d7">insurance coverage, cardholder limit</data>
+      <data key="d8">chunk-a2937495f9497e80753ea99218bc81b6</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Car Sharing" target="Rental Agency">
+      <data key="d5">6.0</data>
+      <data key="d6">Car Sharing services are included under the term 'rental agency' in the insurance policy, indicating their role in vehicle rentals.</data>
+      <data key="d7">service inclusion, rental services</data>
+      <data key="d8">chunk-b7b98ee9edca823c34aab43cb6d7f57f</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Central Travel Account (CTA)" target="Eligible Person">
+      <data key="d5">7.0</data>
+      <data key="d6">A Central Travel Account can be used to qualify an individual as an Eligible Person for Collision/Loss Damage Insurance.</data>
+      <data key="d7">travel management, insurance qualification</data>
+      <data key="d8">chunk-b7b98ee9edca823c34aab43cb6d7f57f</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Rental Agency" target="Rental Agency's CDW">
+      <data key="d5">8.0</data>
+      <data key="d6">Rental Agencies offer an optional Collision Damage Waiver to relieve renters of financial responsibility for damage.</data>
+      <data key="d7">rental options, financial protection</data>
+      <data key="d8">chunk-b7b98ee9edca823c34aab43cb6d7f57f</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Rental Agency" target="Coverage">
+      <data key="d5">7.0</data>
+      <data key="d6">Coverage is provided for rental vehicles from Rental Agencies, subject to specific terms and conditions.</data>
+      <data key="d7">rental conditions, insurance terms</data>
+      <data key="d8">chunk-cd46d3847ee0b42bef789cf0f68c8916</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Rental Agency" target="Scotiabank Visa* Commercial Card">
+      <data key="d5">7.0</data>
+      <data key="d6">The Scotiabank Visa* Commercial Card involves the Rental Agency in the claims process for vehicle damage or theft.</data>
+      <data key="d7">claims process, business interaction</data>
+      <data key="d8">chunk-32dc3362d97d935356954cfd519f18ce</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Rental Agency" target="Accident/Theft Event">
+      <data key="d5">8.0</data>
+      <data key="d6">In the event of an accident or theft, the Rental Agency may settle the claim or assist in the claims process.</data>
+      <data key="d7">claims handling, incident management</data>
+      <data key="d8">chunk-32dc3362d97d935356954cfd519f18ce</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Rental Agency" target="Manulife">
+      <data key="d5">7.0</data>
+      <data key="d6">Manulife's insurance policies interact with Rental Agencies regarding vehicle rental claims and CDW.</data>
+      <data key="d7">insurance interaction, vehicle rental</data>
+      <data key="d8">chunk-f62dd080cd78e179572410aba83891f0</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Rental Agency" target="CDW (Collision Damage Waiver)">
+      <data key="d5">8.0</data>
+      <data key="d6">Rental Agencies offer CDW as part of their vehicle rental agreements to cover potential damages.</data>
+      <data key="d7">insurance option, vehicle rental</data>
+      <data key="d8">chunk-f62dd080cd78e179572410aba83891f0</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Rental Agency" target="Loss of Use">
+      <data key="d5">17.0</data>
+      <data key="d6">The Rental Agency is involved in managing charges related to Loss of Use when a rented vehicle is damaged.&lt;SEP&gt;The rental agency charges Loss of Use fees when a vehicle is not available for rental.</data>
+      <data key="d7">rental charges, vehicle availability&lt;SEP&gt;vehicle rental, damage management</data>
+      <data key="d8">chunk-a421e3c10d836cc5f863848fa735b77c&lt;SEP&gt;chunk-7493eb690999c707f2127514e9040780</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf&lt;SEP&gt;rental_car_insurance.pdf</data>
+    </edge>
+    <edge source="Rental Agency" target="In the Event of an Accident/Theft">
+      <data key="d5">7.0</data>
+      <data key="d6">The Rental Agency follows specific procedures outlined for handling accidents or theft, including claims processing.</data>
+      <data key="d7">accident handling, claims procedure</data>
+      <data key="d8">chunk-7493eb690999c707f2127514e9040780</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Rental Agency" target="ScotiaGold VISA CLD Insurance">
+      <data key="d5">8.0</data>
+      <data key="d6">ScotiaGold VISA CLD Insurance covers liabilities for which the policyholder is responsible to the rental agency, up to certain limits.</data>
+      <data key="d7">insurance coverage, liability</data>
+      <data key="d8">chunk-dc3202a0812b3688825822639df073cd</data>
+      <data key="d9">rental_car_insurance.pdf</data>
+    </edge>
+    <edge source="Loss of Use" target="ScotiaGold VISA CLD Insurance">
+      <data key="d5">7.0</data>
+      <data key="d6">ScotiaGold VISA CLD Insurance covers charges related to loss of use of a rental vehicle due to damage or theft.</data>
+      <data key="d7">insurance coverage, rental fees</data>
+      <data key="d8">chunk-dc3202a0812b3688825822639df073cd</data>
+      <data key="d9">rental_car_insurance.pdf</data>
+    </edge>
+    <edge source="Loss of Use" target="Repair Estimate and Bills">
+      <data key="d5">7.0</data>
+      <data key="d6">Repair estimates and bills are used to calculate Loss of Use charges during claim processing.</data>
+      <data key="d7">repair costs, rental charges</data>
+      <data key="d8">chunk-a421e3c10d836cc5f863848fa735b77c</data>
+      <data key="d9">rental_car_insurance.pdf</data>
+    </edge>
+    <edge source="Scotiabank Visa Commercial Card" target="Canadian dollar">
+      <data key="d5">8.0</data>
+      <data key="d6">Transactions must be completed in Canadian dollars using the Scotiabank Visa Commercial Card to ensure coverage.</data>
+      <data key="d7">currency requirement, financial transactions</data>
+      <data key="d8">chunk-a2937495f9497e80753ea99218bc81b6</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Scotiabank Visa Commercial Card" target="Canadian Dollar">
+      <data key="d5">8.0</data>
+      <data key="d6">The rental transaction must be completed in Canadian dollars using the Scotiabank Visa Commercial Card to ensure coverage.</data>
+      <data key="d7">currency requirement, financial transactions</data>
+      <data key="d8">chunk-a2937495f9497e80753ea99218bc81b6</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Manulife" target="Scotiabank Visa* Commercial Card">
+      <data key="d5">9.0</data>
+      <data key="d6">Manulife administers claims related to the Scotiabank Visa* Commercial Card, providing support and processing.</data>
+      <data key="d7">insurance administration, financial services</data>
+      <data key="d8">chunk-32dc3362d97d935356954cfd519f18ce</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Manulife" target="Global Excel Management">
+      <data key="d5">17.0</data>
+      <data key="d6">Global Excel Management acts as a representative for Manulife in managing claim documentation.&lt;SEP&gt;Manulife has appointed Global Excel Management to administer services and process claims under the insurance certificate.</data>
+      <data key="d7">insurance administration, claims processing&lt;SEP&gt;insurance processing, administrative role</data>
+      <data key="d8">chunk-7493eb690999c707f2127514e9040780&lt;SEP&gt;chunk-f62dd080cd78e179572410aba83891f0</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Manulife" target="Privacy Officer, Manulife">
+      <data key="d5">8.0</data>
+      <data key="d6">The Privacy Officer at Manulife handles requests related to personal information, ensuring compliance with privacy policies.</data>
+      <data key="d7">privacy management, information security</data>
+      <data key="d8">chunk-7493eb690999c707f2127514e9040780</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Manulife" target="Waterloo, ON">
+      <data key="d5">7.0</data>
+      <data key="d6">Waterloo, ON is the location where Manulife secures personal information files.</data>
+      <data key="d7">location of operations, data security</data>
+      <data key="d8">chunk-7493eb690999c707f2127514e9040780</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Manulife" target="Active Claims Management (2018) Inc.">
+      <data key="d5">9.0</data>
+      <data key="d6">Manulife has appointed Active Claims Management (2018) Inc. to provide assistance and claims services under the insurance certificate.</data>
+      <data key="d7">service provision, claims management</data>
+      <data key="d8">chunk-7493eb690999c707f2127514e9040780</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Coverage" target="Eligible Persons">
+      <data key="d5">8.0</data>
+      <data key="d6">Eligible Persons are those who qualify for coverage under specific conditions, including maintaining a Scotiabank Commercial Account.</data>
+      <data key="d7">qualification criteria, insurance eligibility</data>
+      <data key="d8">chunk-cd46d3847ee0b42bef789cf0f68c8916</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Coverage" target="Third Party Liability">
+      <data key="d5">7.0</data>
+      <data key="d6">Third Party Liability is not covered under the insurance policy, requiring separate private insurance.</data>
+      <data key="d7">insurance exclusion, liability coverage</data>
+      <data key="d8">chunk-cd46d3847ee0b42bef789cf0f68c8916</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Coverage" target="Replacement Vehicle">
+      <data key="d5">6.0</data>
+      <data key="d6">Coverage does not apply to replacement vehicles if personal insurance covers the rental cost.</data>
+      <data key="d7">insurance exclusion, personal coverage</data>
+      <data key="d8">chunk-cd46d3847ee0b42bef789cf0f68c8916</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Coverage" target="Rental Period">
+      <data key="d5">7.0</data>
+      <data key="d6">Coverage is limited to rental periods not exceeding 48 consecutive days.</data>
+      <data key="d7">duration limit, insurance terms</data>
+      <data key="d8">chunk-cd46d3847ee0b42bef789cf0f68c8916</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Coverage" target="Narcotic Influence">
+      <data key="d5">8.0</data>
+      <data key="d6">Operating a vehicle under narcotic influence voids the insurance coverage.</data>
+      <data key="d7">coverage void, drug influence</data>
+      <data key="d8">chunk-cd46d3847ee0b42bef789cf0f68c8916</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Coverage" target="Seizure or Destruction">
+      <data key="d5">6.0</data>
+      <data key="d6">Seizure or destruction by government or public authority is not covered by the insurance policy.</data>
+      <data key="d7">insurance exclusion, government action</data>
+      <data key="d8">chunk-cd46d3847ee0b42bef789cf0f68c8916</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Coverage" target="War and Hostile Actions">
+      <data key="d5">6.0</data>
+      <data key="d6">Damages from war and hostile actions are excluded from the insurance policy.</data>
+      <data key="d7">insurance exclusion, war damage</data>
+      <data key="d8">chunk-cd46d3847ee0b42bef789cf0f68c8916</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Coverage" target="Nuclear Reaction">
+      <data key="d5">6.0</data>
+      <data key="d6">Damages from nuclear reactions are not covered by the insurance policy.</data>
+      <data key="d7">insurance exclusion, nuclear damage</data>
+      <data key="d8">chunk-cd46d3847ee0b42bef789cf0f68c8916</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Scotiabank Visa* Commercial Card" target="Canada">
+      <data key="d5">8.0</data>
+      <data key="d6">The Scotiabank Visa* Commercial Card provides coverage and services within Canada.</data>
+      <data key="d7">financial services, geographic availability</data>
+      <data key="d8">chunk-32dc3362d97d935356954cfd519f18ce</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="Canada" target="ScotiaGold VISA CLD Insurance">
+      <data key="d5">7.0</data>
+      <data key="d6">ScotiaGold VISA CLD Insurance provides a specific contact number for reporting claims from Canada.</data>
+      <data key="d7">regional service, contact information</data>
+      <data key="d8">chunk-dc3202a0812b3688825822639df073cd</data>
+      <data key="d9">rental_car_insurance.pdf</data>
+    </edge>
+    <edge source="Global Excel Management" target="Windsor, ON">
+      <data key="d5">6.0</data>
+      <data key="d6">Global Excel Management processes insurance claims from their location in Windsor, ON.</data>
+      <data key="d7">location, administrative operations</data>
+      <data key="d8">chunk-f62dd080cd78e179572410aba83891f0</data>
+      <data key="d9">EN_Commercial_CLD_CAD.pdf</data>
+    </edge>
+    <edge source="The Bank of Nova Scotia" target="ScotiaGold VISA">
+      <data key="d5">10.0</data>
+      <data key="d6">The Bank of Nova Scotia offers the ScotiaGold VISA credit card and its associated benefits.</data>
+      <data key="d7">financial service, credit card offering</data>
+      <data key="d8">chunk-a421e3c10d836cc5f863848fa735b77c</data>
+      <data key="d9">rental_car_insurance.pdf</data>
+    </edge>
+    <edge source="Primmum Insurance Company" target="ScotiaGold Passport VISA">
+      <data key="d5">8.0</data>
+      <data key="d6">Primmum Insurance Company provides the insurance policy associated with the ScotiaGold Passport VISA.</data>
+      <data key="d7">insurance coverage, credit card benefits</data>
+      <data key="d8">chunk-ccefe668aaa0469c9d976fe159eae1c8</data>
+      <data key="d9">rental_car_insurance.pdf</data>
+    </edge>
+    <edge source="World Travel Protection Canada Inc." target="ScotiaGold Passport VISA">
+      <data key="d5">7.0</data>
+      <data key="d6">World Travel Protection Canada Inc. administers services for the ScotiaGold Passport VISA insurance policy.</data>
+      <data key="d7">service administration, credit card benefits</data>
+      <data key="d8">chunk-ccefe668aaa0469c9d976fe159eae1c8</data>
+      <data key="d9">rental_car_insurance.pdf</data>
+    </edge>
+    <edge source="ScotiaGold Passport VISA" target="Collision Damage Waiver (CDW)">
+      <data key="d5">8.0</data>
+      <data key="d6">To be eligible for the insurance coverage, cardholders must decline the Collision Damage Waiver when renting a car.</data>
+      <data key="d7">insurance eligibility, rental conditions</data>
+      <data key="d8">chunk-ccefe668aaa0469c9d976fe159eae1c8</data>
+      <data key="d9">rental_car_insurance.pdf</data>
+    </edge>
+    <edge source="ScotiaGold Passport VISA" target="Loss Damage Waiver (LDW)">
+      <data key="d5">8.0</data>
+      <data key="d6">Declining the Loss Damage Waiver is a requirement for insurance coverage eligibility under the ScotiaGold Passport VISA.</data>
+      <data key="d7">insurance eligibility, rental conditions</data>
+      <data key="d8">chunk-ccefe668aaa0469c9d976fe159eae1c8</data>
+      <data key="d9">rental_car_insurance.pdf</data>
+    </edge>
+    <edge source="ScotiaGold Passport VISA" target="Scotia Rewards Points">
+      <data key="d5">7.0</data>
+      <data key="d6">Scotia Rewards Points can be used to pay for car rentals, contributing to the eligibility for insurance benefits.</data>
+      <data key="d7">rewards program, payment options</data>
+      <data key="d8">chunk-ccefe668aaa0469c9d976fe159eae1c8</data>
+      <data key="d9">rental_car_insurance.pdf</data>
+    </edge>
+    <edge source="ScotiaGold Passport VISA" target="Deductible Waiver">
+      <data key="d5">7.0</data>
+      <data key="d6">In certain locations, cardholders must waive the Deductible Waiver for insurance coverage to apply.</data>
+      <data key="d7">insurance coverage, regional conditions</data>
+      <data key="d8">chunk-ccefe668aaa0469c9d976fe159eae1c8</data>
+      <data key="d9">rental_car_insurance.pdf</data>
+    </edge>
+    <edge source="Toronto, Ontario" target="Scotia Assist">
+      <data key="d5">8.0</data>
+      <data key="d6">Scotia Assist is located in Toronto, Ontario, where claims are processed.</data>
+      <data key="d7">location, claims processing</data>
+      <data key="d8">chunk-a421e3c10d836cc5f863848fa735b77c</data>
+      <data key="d9">rental_car_insurance.pdf</data>
+    </edge>
+    <edge source="Scotia Assist" target="ScotiaGold VISA">
+      <data key="d5">9.0</data>
+      <data key="d6">Scotia Assist handles claims related to auto rental insurance provided by ScotiaGold VISA.</data>
+      <data key="d7">insurance service, claims processing</data>
+      <data key="d8">chunk-a421e3c10d836cc5f863848fa735b77c</data>
+      <data key="d9">rental_car_insurance.pdf</data>
+    </edge>
+    <edge source="Scotia Assist" target="ScotiaGold VISA Card">
+      <data key="d5">9.0</data>
+      <data key="d6">Scotia Assist processes claims related to the ScotiaGold VISA Card auto rental insurance coverage.</data>
+      <data key="d7">claims processing, insurance service</data>
+      <data key="d8">chunk-a421e3c10d836cc5f863848fa735b77c</data>
+      <data key="d9">rental_car_insurance.pdf</data>
+    </edge>
+    <edge source="ScotiaGold VISA CLD Insurance" target="Exotic Cars">
+      <data key="d5">9.0</data>
+      <data key="d6">ScotiaGold VISA CLD Insurance explicitly excludes coverage for exotic cars, which are high-end luxury vehicles.</data>
+      <data key="d7">insurance exclusion, vehicle type</data>
+      <data key="d8">chunk-dc3202a0812b3688825822639df073cd</data>
+      <data key="d9">rental_car_insurance.pdf</data>
+    </edge>
+    <edge source="ScotiaGold VISA CLD Insurance" target="Claims Administrator">
+      <data key="d5">8.0</data>
+      <data key="d6">The Claims Administrator manages the claims process for ScotiaGold VISA CLD Insurance, assisting customers with documentation and claim submission.</data>
+      <data key="d7">claims processing, customer service</data>
+      <data key="d8">chunk-dc3202a0812b3688825822639df073cd</data>
+      <data key="d9">rental_car_insurance.pdf</data>
+    </edge>
+    <edge source="ScotiaGold VISA CLD Insurance" target="United States">
+      <data key="d5">7.0</data>
+      <data key="d6">ScotiaGold VISA CLD Insurance provides a specific contact number for reporting claims from the United States.</data>
+      <data key="d7">regional service, contact information</data>
+      <data key="d8">chunk-dc3202a0812b3688825822639df073cd</data>
+      <data key="d9">rental_car_insurance.pdf</data>
+    </edge>
+    <edge source="ScotiaGold VISA CLD Insurance" target="Towing Charges">
+      <data key="d5">7.0</data>
+      <data key="d6">ScotiaGold VISA CLD Insurance covers reasonable towing charges for damaged or stolen rental vehicles.</data>
+      <data key="d7">insurance coverage, vehicle recovery</data>
+      <data key="d8">chunk-dc3202a0812b3688825822639df073cd</data>
+      <data key="d9">rental_car_insurance.pdf</data>
+    </edge>
+    <edge source="ScotiaGold VISA CLD Insurance" target="Administration Charges">
+      <data key="d5">6.0</data>
+      <data key="d6">ScotiaGold VISA CLD Insurance covers administration charges related to processing claims for vehicle damage or theft.</data>
+      <data key="d7">insurance coverage, administrative fees</data>
+      <data key="d8">chunk-dc3202a0812b3688825822639df073cd</data>
+      <data key="d9">rental_car_insurance.pdf</data>
+    </edge>
+    <edge source="ScotiaGold VISA CLD Insurance" target="Malicious Vandalism">
+      <data key="d5">7.0</data>
+      <data key="d6">ScotiaGold VISA CLD Insurance covers damages resulting from malicious vandalism of rental vehicles.</data>
+      <data key="d7">insurance coverage, vandalism</data>
+      <data key="d8">chunk-dc3202a0812b3688825822639df073cd</data>
+      <data key="d9">rental_car_insurance.pdf</data>
+    </edge>
+    <edge source="ScotiaGold VISA CLD Insurance" target="Theft">
+      <data key="d5">8.0</data>
+      <data key="d6">ScotiaGold VISA CLD Insurance provides coverage for theft of rental vehicles under specific conditions.</data>
+      <data key="d7">insurance coverage, theft protection</data>
+      <data key="d8">chunk-dc3202a0812b3688825822639df073cd</data>
+      <data key="d9">rental_car_insurance.pdf</data>
+    </edge>
+    <edge source="ScotiaGold VISA" target="Group Policy">
+      <data key="d5">8.0</data>
+      <data key="d6">The Group Policy outlines the insurance coverage terms for ScotiaGold VISA cardholders.</data>
+      <data key="d7">insurance terms, policy details</data>
+      <data key="d8">chunk-a421e3c10d836cc5f863848fa735b77c</data>
+      <data key="d9">rental_car_insurance.pdf</data>
+    </edge>
+    <edge source="Driver's Licence" target="ScotiaGold VISA Card">
+      <data key="d5">7.0</data>
+      <data key="d6">The ScotiaGold VISA Card requires a driver's licence for identity verification and claim processing.</data>
+      <data key="d7">identity verification, claim requirement</data>
+      <data key="d8">chunk-a421e3c10d836cc5f863848fa735b77c</data>
+      <data key="d9">rental_car_insurance.pdf</data>
+    </edge>
+    <edge source="Police Report" target="Loss/Damage Report">
+      <data key="d5">8.0</data>
+      <data key="d6">Both the police report and the loss/damage report are necessary documents for processing insurance claims.</data>
+      <data key="d7">documentation, claim processing</data>
+      <data key="d8">chunk-a421e3c10d836cc5f863848fa735b77c</data>
+      <data key="d9">rental_car_insurance.pdf</data>
+    </edge>
+    <edge source="ScotiaGold VISA Card" target="Rental Agreement">
+      <data key="d5">8.0</data>
+      <data key="d6">The ScotiaGold VISA Card insurance coverage is applicable to terms outlined in the rental agreement.</data>
+      <data key="d7">insurance coverage, rental terms</data>
+      <data key="d8">chunk-a421e3c10d836cc5f863848fa735b77c</data>
+      <data key="d9">rental_car_insurance.pdf</data>
+    </edge>
+  </graph>
+</graphml>
